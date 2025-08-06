@@ -1,0 +1,28 @@
+
+.navbar-header {
+    background-color: white;
+    color: #1976d2;
+    padding: 20px;
+    text-align: center;
+    width: 100%; /* ensures full viewport width */
+    height: 100px;
+    margin: 0;
+}
+.navbar-menu{
+    background-color: #1976d2;
+    padding: 10px 0;
+    width: 100%;
+    margin: 0;
+}
+.navbar-menu ul {
+    list-style: none;
+    display: flex;
+    justify-content: center; /* center items */
+    gap: 40px; /* space between items */
+    margin: 0;
+    padding: 0;
+    
+}
+.navbar-menu li{
+    color: white;
+}
